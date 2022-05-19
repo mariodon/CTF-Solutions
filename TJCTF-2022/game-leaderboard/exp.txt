@@ -1,0 +1,1 @@
+filter=1 UNION SELECT profile_id as name, profile_id, score FROM leaderboard WHERE score > 1
